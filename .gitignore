@@ -6,3 +6,4 @@ data/raw/*
 test/__pycache__/*
 tests/.pytest_cache/*
 .pytest_cache/*
+.coverage
